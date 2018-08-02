@@ -15,7 +15,7 @@ var info = {
   },{
     'title':'電商活動頁面',
     'skill':'HTML、CSS、Js',
-    'description':'與設計合作完成電商活動頁面。 負責:用js實作跳出式窗與css動畫和埋設頁面行銷事件追蹤碼',
+    'description':'與設計合作完成電商活動頁面。 負責:用js實作跳出視窗與css動畫和埋設頁面行銷事件追蹤碼',
     'href':'https://goo.gl/QV9VE1',
     'color':'ec'
   },{
